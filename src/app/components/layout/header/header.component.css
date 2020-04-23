@@ -1,0 +1,15 @@
+.header{
+  background: dimgrey;
+}
+h1{
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+nav{
+  text-align: center;
+}
+.header a{
+  color: white;
+  text-decoration: none;
+}
